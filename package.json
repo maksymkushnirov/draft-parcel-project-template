@@ -5,7 +5,7 @@
   "homepage": "https://maksymkushnirov.github.io/draft-parcel-project-template",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /draft-parcel-project-template/"
   },
   "repository": {
     "type": "git",
